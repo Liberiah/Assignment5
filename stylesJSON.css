@@ -1,0 +1,137 @@
+body
+{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d2ff52+2,bded44+100&0.3+67,1+100 */
+background: -moz-linear-gradient(left,  rgba(210,255,82,0.3) 2%, rgba(196,243,73,0.3) 67%, rgba(189,237,68,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(210,255,82,0.3) 2%,rgba(196,243,73,0.3) 67%,rgba(189,237,68,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(210,255,82,0.3) 2%,rgba(196,243,73,0.3) 67%,rgba(189,237,68,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dd2ff52', endColorstr='#bded44',GradientType=1 ); /* IE6-9 */
+font-family:  Questrial, Arial, sans-serif;
+max-width:900px;
+}
+
+.intro_pg .activities
+{
+  width: 500px;
+  height: 50px;
+  border: 1px solid orange;
+
+}
+
+.intro_pg .row
+{
+	border: 1px solid orange;
+}
+
+.intro_pg h1, h2 {
+	font-family: Questrial, Arial, sans-serif;	
+	color:orange;	
+}
+
+.intro_pg h2
+{
+margin-left: 2cm;
+}
+
+
+.intro_pg .standard-paragraph
+{
+	font-family: Questrial, Arial, sans-serif;
+	color:orange;
+	font-size: 20px;
+	padding: 20px;
+ 	margin-left:20px;
+ 	
+}
+
+.intro_pg {
+	/*display: table;*/
+	border: 1px solid orange;
+	border-width: 2px;
+	
+}
+
+.intro_pg .name, .desc
+{
+	border: 1px solid black;
+	font-family: Questrial, Arial, sans-serif;
+	display:inline-block;
+	vertical-align:right;
+}
+
+.intro_pg .name
+{
+	width: 125px;
+	border-right: 1px solid black;
+	font-size: 17px;
+}
+
+.intro_pg .paddleboard-image
+{
+	
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-image: url('paddleboarders.jpg');
+	background-size: 200px 200px;
+	display: inline-block;
+	vertical-align:middle;
+}
+
+.intro_pg .paddleboard-caption
+{
+	display: inline-block;
+	vertical-align:middle;
+}
+
+.intro_pg .biking-caption
+{
+	display: inline-block;
+	vertical-align:middle;
+}
+
+.intro_pg .biking-image
+{
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-image: url('BikersColor.JPG');
+	background-size: 200px 200px;
+	display: inline-block;
+	vertical-align:middle;	
+}
+
+.intro_pg .snowshoeing-image
+{
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-image: url('SnowShoeing.JPG');
+	background-size: 200px 200px;
+	display: inline-block;
+	vertical-align:middle;	
+}
+
+.intro_pg .snowshoe-caption
+{
+	display: inline-block;
+	vertical-align:middle;
+}
+
+.intro_pg .hiking-caption
+{
+	display: inline-block;
+	vertical-align:middle;
+}
+
+.intro_pg .hiking-image
+{
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-image: url('hikeHeadStand.JPG');
+	background-size: 200px 200px;
+	display: inline-block;
+	vertical-align:middle;	
+	transform:rotate(90deg);
+}
+
